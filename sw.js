@@ -10,7 +10,7 @@
 
 'use strict';
 
-var precacheConfig = [["/2024/07/09/hello-world/index.html","d119eacdfd6eda0284c15a45a02cc785"],["/2024/07/10/Github+Hexo搭建个人博客/index.html","3dc63a3f8fc855ae522e26ec8df0da5e"],["/2024/07/11/服务器的基本使用/index.html","491d7c5a93c25ebe9ef8f2cdfaf1e3ea"],["/2024/07/12/docker学习/index.html","3dac13c076385639c1eab90d59a93576"],["/2024/07/14/pwn中虚拟机ubuntu的使用教程/index.html","9e79f0003312886df27cae9549c937f5"],["/2024/07/15/docker部署pwn环境/index.html","2ab38988f250fe2ac4fa57f35ac3eec3"],["/2024/07/20/基于ctf_xinetd部署pwn环境/index.html","32c036f88dfd0a3dd1dcb6705f7acc75"],["/archives/2024/07/index.html","42b2d5f10d722a2faae8961b1fc8125a"],["/archives/2024/index.html","e20417e7dee23a6eaa06c462d2289018"],["/archives/index.html","da97df1d9bb1d332cdf54fdbe537db37"],["/css/index.css","07074d4dd4f53e577498fa017d82feee"],["/css/var.css","d41d8cd98f00b204e9800998ecf8427e"],["/image/baiyun.jpg","d7a671142a85c37ac4f0cf1b537026e4"],["/image/xiaogou.jpg","17abaeee4627f970253de7aee84d720c"],["/img/404.jpg","4ef3cfb882b6dd4128da4c8745e9a507"],["/img/favicon.png","7a8c47cb5a2149c1a1af21e90ecd9ca7"],["/img/friend_404.gif","68af0be9d22722e74665ef44dd532ba8"],["/index.html","91ca807c5cdb84ce959ed9fb105b5948"],["/js/main.js","6b81ae582288482e51573bbc5226dbd6"],["/js/search/algolia.js","4491ac1d470a1693a502a9d09034aa21"],["/js/search/local-search.js","9da6b76672a143c8c8449770a8d259f3"],["/js/tw_cn.js","707135460b9ad67147ebebd717413d9d"],["/js/utils.js","3df06119fbaa236c2fbb2dbc6e120a86"],["/sw-register.js","59173d54b01f7686694d4b31ac384712"],["/tags/开发环境安装指南/index.html","1456213e11962365e4545e40eff38a6f"]];
+var precacheConfig = [];
 var cacheName = 'sw-precache-v3--' + (self.registration ? self.registration.scope : '');
 var firstRegister = 1; // 默认1是首次安装SW， 0是SW更新
 
